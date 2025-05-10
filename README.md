@@ -1,4 +1,4 @@
-# solder
+# Solder
 ## Schematic
 ![image](https://github.com/user-attachments/assets/3d1df03b-b223-430f-b223-c95fff7f705a)
 
